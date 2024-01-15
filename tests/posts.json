@@ -1,0 +1,124 @@
+[{
+        "title": "Mona Lisa",
+        "content": "The Mona Lisa is a portrait painted by Leonardo da Vinci...",
+        "categories": ["Art"],
+        "tags": ["portrait", "Leonardo da Vinci", "Renaissance"],
+        "featured_img": {
+            "filename": "mona_lisa.jpg",
+            "title": "Mona Lisa",
+            "caption": "The iconic Mona Lisa portrait by Leonardo da Vinci",
+            "description": "Famous portrait of a woman with an enigmatic smile",
+            "alt_text": "Mona Lisa"
+        }
+    },
+    {
+        "title": "Starry Night",
+        "content": "Starry Night is a masterpiece by Vincent van Gogh...",
+        "categories": ["Art"],
+        "tags": ["landscape", "Vincent van Gogh", "Post-Impressionism"],
+        "featured_img": {
+            "filename": "starry_night.jpg",
+            "title": "Starry Night",
+            "caption": "The mesmerizing Starry Night by Vincent van Gogh",
+            "description": "A swirling night sky with vibrant stars and a town below",
+            "alt_text": "Starry Night"
+        }
+    },
+    {
+        "title": "The Persistence of Memory",
+        "content": "The Persistence of Memory is a surreal painting by Salvador Dalí...",
+        "categories": ["Art"],
+        "tags": ["surrealism", "Salvador Dalí", "melting clocks"],
+        "featured_img": {
+            "filename": "persistence_of_memory.jpeg",
+            "title": "Persistence of Memory",
+            "caption": "The surreal Persistence of Memory by Salvador Dalí",
+            "description": "Iconic depiction of melting clocks in a dreamlike landscape",
+            "alt_text": "Persistence of Memory"
+        }
+    }, {
+        "title": "The Scream",
+        "content": "The Scream is an iconic artwork by Edvard Munch...",
+        "categories": ["Art"],
+        "tags": ["expressionism", "Edvard Munch", "anxiety"],
+        "featured_img": {
+            "filename": "the_scream.png",
+            "title": "The Scream",
+            "caption": "Edvard Munch's masterpiece, The Scream",
+            "description": "A figure on a bridge with a distorted face expressing anguish",
+            "alt_text": "The Scream"
+        }
+    }, {
+        "title": "Guernica",
+        "content": "Guernica is a powerful anti-war painting by Pablo Picasso...",
+        "categories": ["Art"],
+        "tags": ["cubism", "Pablo Picasso", "anti-war"],
+        "featured_img": {
+            "filename": "guernica.jpeg",
+            "title": "Guernica",
+            "caption": "Pablo Picasso's monumental painting, Guernica",
+            "description": "A harrowing depiction of the bombing of Guernica during the Spanish Civil War",
+            "alt_text": "Guernica"
+        }
+    }, {
+        "title": "The Last Supper",
+        "content": "The Last Supper is a renowned religious painting by Leonardo da Vinci...",
+        "categories": ["Art"],
+        "tags": ["religious", "Leonardo da Vinci", "Renaissance"],
+        "featured_img": {
+            "filename": "last_supper.jpeg",
+            "title": "The Last Supper",
+            "caption": "Leonardo da Vinci's masterpiece, The Last Supper",
+            "description": "A depiction of Jesus and his disciples during the last supper",
+            "alt_text": "The Last Supper"
+        }
+    }, {
+        "title": "Girl with a Pearl Earring",
+        "content": "Girl with a Pearl Earring is a famous portrait by Johannes Vermeer...",
+        "categories": ["Art"],
+        "tags": ["portrait", "Johannes Vermeer", "Baroque"],
+        "featured_img": {
+            "filename": "girl_with_pearl.jpeg",
+            "title": "Girl with a Pearl Earring",
+            "caption": "Johannes Vermeer's captivating portrait, Girl with a Pearl Earring",
+            "description": "A girl with a turban and a pearl earring looking directly at the viewer",
+            "alt_text": "Girl with a Pearl Earring"
+        }
+    }, {
+        "title": "Water Lilies",
+        "content": "Water Lilies is a series of Impressionist paintings by Claude Monet...",
+        "categories": ["Art"],
+        "tags": ["impressionism", "Claude Monet", "nature"],
+        "featured_img": {
+            "filename": "water_lilies.jpeg",
+            "title": "Water Lilies",
+            "caption": "Claude Monet's serene Water Lilies series",
+            "description": "Beautiful depictions of water lilies in various tranquil settings",
+            "alt_text": "Water Lilies"
+        }
+    }, {
+        "title": "American Gothic",
+        "content": "American Gothic is an iconic painting by Grant Wood...",
+        "categories": ["Art"],
+        "tags": ["American art", "Grant Wood", "regionalism"],
+        "featured_img": {
+            "filename": "american_gothic.jpeg",
+            "title": "American Gothic",
+            "caption": "Grant Wood's iconic American Gothic",
+            "description": "A farmer and his daughter in front of a Gothic-style farmhouse",
+            "alt_text": "American Gothic"
+        }
+    }, {
+        "title": "The Birth of Venus",
+        "content": "The Birth of Venus is a classic painting by Sandro Botticelli...",
+        "categories": ["Art"],
+        "tags": ["Renaissance", "Sandro Botticelli", "mythology"],
+        "featured_img": {
+            "filename": "birth_of_venus.jpeg",
+            "title": "The Birth of Venus",
+            "caption": "Sandro Botticelli's timeless masterpiece, The Birth of Venus",
+            "description": "The goddess Venus emerging from the sea on a seashell",
+            "alt_text": "The Birth of Venus"
+        }
+    }
+]
